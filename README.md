@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-A milstone project in the Udemy course https://www.udemy.com/course/complete-python-bootcamp/ by Jose Portilla
+A milestone project in the Udemy course https://www.udemy.com/course/complete-python-bootcamp/ by Jose Portilla
 
 The first try file was my first try at constructing the game's functions and logic on my own without external help, this was to challenge myself and increase understanding.
 
